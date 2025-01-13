@@ -82,12 +82,11 @@ This project involves designing and managing a relational database for Snowball 
 ---
 
 ## **Project Resources**
-- **Database File**: [Ski Locations START FILE](https://github.com/StephVergil/Snowball-Express-Database-Project/blob/main/Ski%20Locations%20%20START%20FILE-%20StephanieVergil.accdb)
-- **Instructions Document**: [Snowball Express Database Instructions](https://github.com/StephVergil/Snowball-Express-Database-Project/blob/main/Snowball%20Express%20Database%20-%20INSTRUCTIONS%20-%20FALL%202023-1.docx.pdf)
+- Project: [Ski Locations START FILE](https://github.com/StephVergil/Snowball-Express-Database-Project/blob/main/Ski%20Locations%20%20START%20FILE-%20StephanieVergil.accdb)
+- Instructions Document: [Snowball Express Database Instructions](https://github.com/StephVergil/Snowball-Express-Database-Project/blob/main/Snowball%20Express%20Database%20-%20INSTRUCTIONS%20-%20FALL%202023-1.docx.pdf)
 - [Microsoft Access Documentation](https://support.microsoft.com/en-us/access)
-- [Database Design Best Practices](https://learn.microsoft.com/en-us/sql/relational-databases/database-design-basics)
 - [Relational Database Concepts](https://www.oracle.com/database/what-is-a-relational-database/)
-- [Access Query Design Guide](https://support.microsoft.com/en-us/access-query-design)
+- [Introduction to Queries](https://support.microsoft.com/en-us/office/introduction-to-queries-a9739a09-d3ff-4f36-8ac3-5760249fb65c)
 
 ---
 
